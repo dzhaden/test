@@ -50,5 +50,5 @@ Enter the document ID in 'Document ID' text field and click 'Load document'.
 Enter tokens in the bottom text area (e.g. token1,token2,token3) separated by the specified separator without spaces in
 between. Hit the button 'Find documents'
 
-# To see the currently applied configuration check: http://localhost:8080/configuration
+# To see the currently applied configuration, check: http://localhost:8080/configuration
 
