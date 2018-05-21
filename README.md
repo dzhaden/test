@@ -1,8 +1,8 @@
 ETA:
-The Spring Boot project skeleton was ready before the test
-design - 2h
-implementation - 4h
-testing  - 8h
+The Spring Boot project skeleton was ready before the test.
+Design - 2h.
+Implementation - 4h.
+Testing  - 8h.
 
 ## Working assumption:
 Given:
